@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'booter_-_five_fiveregular';
+    src: url('../fonts/booter/booterff.woff2') format('woff2'),
+         url('../fonts/booter/booterff.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-family: 'dragonbones_bbregular';
+    src: url('../fonts/dragonbonesBB/dragonbonesbb_reg.woff2') format('woff2'),
+         url('../fonts/dragonbonesBB/dragonbonesbb_reg.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+.style{
+    background: none;
+    border-radius: 20%;
+    border: none;
+    box-shadow: 2px 2px 35px #FF8018;
+    color: #FF8018 ;
+    font-size: 30px;
+}
+.testReponse {
+    /* color: #FF8018; */
+    color: white;
+    font-family: 'dragonbones_bbregular';
+    font-size: 2vw;
+}

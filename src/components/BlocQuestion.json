@@ -1,0 +1,146 @@
+[
+    {
+        "index" : 1,
+        "question": "Je suis toujours devant tout le monde, mais personne ne peut me voir. Qui suis-je ?",
+        "reponse": "L'avenir",
+        "explication": "",
+        "key":"avenir"
+    },
+    {
+        "index" : 2,
+        "question": "J'ai 48 ans mais j'ai fêté mon anniversaire que 12 fois pourquoi ?",
+        "reponse": "29 février",
+        "explication": "",
+        "key":"29 février"
+    },
+    {
+        "index" : 3,
+        "question": "Plus j'enleve, plus il grandit",
+        "reponse": "un trou",
+        "explication": "Un trou, car plus j'enleve de la terre plus le trou devient grand",
+        "key":"trou"
+    },
+    {
+        "index" : 4,
+        "question": "Quelle est la lettre suivante de cette suite (J F M A M J J A S O)",
+        "reponse": "N",
+        "explication": "la suite represente la premiere lettre des mois de l'année",
+        "key":"N"
+    },
+    {
+        "index" : 5,
+        "question": "Certains mois ont 31 jours, d'autres en ont 30. Mais combien en contientent 28",
+        "reponse": "12",
+        "explication": "",
+        "key":"12"
+    },
+    {
+        "index" : 6,
+        "question": "On me trouve chez l'homme mais pas chez la femme, dans une tomate mais pas dans une banane, dans un avion mais pas dans un bateau. Qui suis-je ?",
+        "reponse": "O",
+        "explication": "",
+        "key":"O"
+    },
+    {
+        "index" : 7,
+        "question": "Il y a deux maisons séparées d'une ligne jaune. Sur cette ligne il y a un coq. Combien d'oeufs ce coq a t-il pondu ?",
+        "reponse": "0",
+        "explication": "",
+        "key":"0"
+    },
+    {
+        "index" : 8,
+        "question": "Je peux être plus grznde que la Tour Eiffel et plus legere qu'une plume. Qui suis-je ?",
+        "reponse": "l'ombre",
+        "explication": "",
+        "key":"ombre"
+    },
+    {
+        "index" : 9,
+        "question": "Je suis toujours mouillé, mais je ne suis jamais dans l'eau. J'habite dans un palais qui n'est pas le mien. Qui suis je ?",
+        "reponse": "la langue",
+        "explication": "",
+        "key":"langue"
+    },
+    {
+        "index" : 10,
+        "question": "J'ai une gorge mais je ne peux pas parler, je coule mais ne me noie pas, j'ai un lit mais je ne dors jamais. Qui suis-je ?",
+        "reponse": "la rivière",
+        "explication": "",
+        "key":"rivière"
+    },
+    {
+        "index" : 11,
+        "question": "Que dit la sorcière à son mari quand elle trouve une chose très facile à faire?",
+        "reponse": "Ce n'est pas sorcier!",
+        "explication": "Ce n'est pas sorcier!",
+        "key":"pas sorcier"
+    },
+    {
+        "index" : 12,
+        "question": "Qu'est-ce qui tombe le soir d'Halloween?",
+        "reponse": "La nuit.",
+        "explication": "La nuit.",
+        "key": "nuit"
+    },
+    {
+        "index" : 13,
+        "question": "Quel est le jeu préféré des squelettes?",
+        "reponse": "Les osselets.",
+        "explication": "Les osselets.",
+        "key":"osselets"
+    },
+    {
+        "index" : 14,
+        "question": "Comment appelle-t-on le Comte Dracula ?",
+        "reponse": "Mon saigneur.",
+        "explication": "Mon saigneur.",
+        "key":"saigneur"
+    },
+    {
+        "index" : 15,
+        "question": "Comment appelle-t-on un professeur vampire ?",
+        "reponse": "Un « ensaignant »",
+        "explication": "Un « ensaignant »",
+        "key":"ensaignant"
+    },
+    {
+        "index" : 16,
+        "question": "Quel est le comble pour un vampire ?",
+        "reponse": "C'est de se faire du mauvais sang",
+        "explication": "C'est de se faire du mauvais sang",
+        "key":"mauvais sang"
+    },
+    {
+        "index" : 17,
+        "question": "Que dit un vampire en quittant sa victime ?",
+        "reponse": "Merci beau cou.",
+        "explication": "Merci beau cou.",
+        "key":"beau cou"
+    },
+    {
+        "index" : 18,
+        "question": "Quelle est l'expression préférée des vampires ?",
+        "reponse": "Bon sang...",
+        "explication": "Bon sang...",
+        "key": "bon sang"
+    },
+    {
+        "index" : 19,
+        "question": "Qui sont les fantômes les plus élégants?",
+        "reponse": "Ceux qui sont dans de beaux draps!",
+        "explication": "Ceux qui sont dans de beaux draps!",
+        "key":"dans beaux draps"
+    },
+    {
+        "index" : 20,
+        "question": "Si tu te retrouves à côté de Dracula, d’un squelette, d’un fantôme et d’une sorcière, qu’est-ce que tu souhaites?",
+        "reponse": "Tu souhaites que ce soit l’Halloween!",
+        "explication": "Tu souhaites que ce soit l’Halloween!",
+        "key":"halloween"
+    }
+]
+
+
+
+

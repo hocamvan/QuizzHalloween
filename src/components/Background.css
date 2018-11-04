@@ -1,0 +1,21 @@
+.fond {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: auto;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -100;
+}
+
+/* paramétrage non utilisé mais intéressant à garder pour un prochain projet.
+.bkg {
+margin:0;
+padding:0;
+background: url(../img/bkg.jpg) no-repeat center fixed;
+-webkit-background-size: cover; /* pour anciens Chrome et Safari */
+/* background-size: cover; /* version standardisée */
+/* z-index: -100; */
+/* }  */
+
